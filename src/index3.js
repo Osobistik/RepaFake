@@ -25,7 +25,7 @@ class ThirdComponent extends React.Component
 {
     constructor(props){
         super(props)
-        this.state = {name: "Zadanie"}
+        this.state = {name: "ffZadanie"}
     }
 
     
