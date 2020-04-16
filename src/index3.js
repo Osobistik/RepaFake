@@ -15,7 +15,7 @@ class FirstComponent extends React.Component
 
     
 render(){
-    return (<div><h1>Hello, {this.state.name}</h1>
+    return (<div><h1>Hello, world {this.state.name}</h1>
     <SecondComponent></SecondComponent>
     <ThirdComponent></ThirdComponent>
    
